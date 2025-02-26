@@ -1,4 +1,9 @@
-## Hi there 👋
+# Languages
+- Python
+- Javascript
+- HTML5 and CSS
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
 
 <!--
 **deadbug404/deadbug404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
