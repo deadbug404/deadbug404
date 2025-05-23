@@ -2,8 +2,9 @@
 - Python
 - Javascript
 - HTML5 and CSS
+- JEST
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,jest)](https://skillicons.dev)
 
 <!--
 **deadbug404/deadbug404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
