@@ -4,8 +4,9 @@
 - REACT
 - Python
 - JEST
+- Express
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,jest,express)](https://skillicons.dev)
 
 <!--
 **deadbug404/deadbug404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
